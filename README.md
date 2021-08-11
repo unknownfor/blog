@@ -1,6 +1,6 @@
-# 网上冲浪
+# 博客
 
-[访问地址](https://unknownfor.github.io)随缘记笔记
+随缘记笔记，年更，[访问地址](https://unknownfor.github.io)
 
 ##### 修改主题
 
